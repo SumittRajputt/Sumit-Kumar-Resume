@@ -47,17 +47,17 @@ Aspiring Data Analyst with a Master’s in Data Science and hands-on experience 
 ### **EDUCATION**
 
 **Master of Science (M.S.) in Data Science**
-(Your University Name) | Year
+(Woolf University, Malta) | Dec 2026
 
 **Bachelor’s Degree**
-(Your College Name) | Year
+(Delhi University) | Aug 2023
 
 ---
 
 ### **CERTIFICATIONS**
 
-* Data Analytics Certification – (Coursera / Google / etc.)
-* SQL / Excel / Power BI Certification
+* Data Analytics Certification – (Woolf University)
+* SQL / Excel / Power BI / Python Certification
 
 ---
 
