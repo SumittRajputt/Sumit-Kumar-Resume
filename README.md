@@ -2,7 +2,7 @@
 **SUMIT KUMAR**
 📍 New Delhi, India
 📞 +91-8287281856 | 📧 [828kumarsumit@gmail.com](mailto:828kumarsumit@gmail.com)
-🔗 LinkedIn: www.linkedin.com/in/sumit-kumar-649b45381 | 🔗 GitHub: github.com/yourprofile
+🔗 LinkedIn: www.linkedin.com/in/sumit-kumar-649b45381 | 🔗 GitHub: [github.com/yourprofile](https://github.com/SumittRajputt)
 
 ---
 
