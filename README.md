@@ -24,30 +24,36 @@ Aspiring Data Analyst with a Master’s in Data Science and hands-on experience 
 
 ### **PROJECTS**
 
-**Sales Performance Dashboard (Excel / Power BI)**
+Amazon Prime Content Analysis Dashboard (Power BI)
 
-* Built an interactive dashboard to track KPIs including total sales, profit, and monthly growth trends
-* Cleaned and transformed raw data for accurate reporting
-* Identified top-performing products and regions, improving decision-making insights
+• Developed an interactive Power BI dashboard analyzing 10K+ titles across genres, ratings, and release trends
+• Performed data cleaning and transformation to ensure accurate analysis
+• Designed KPI metrics and implemented slicers for dynamic filtering (content type, release year)
+• Created visualizations including genre distribution, rating vs popularity, and content growth over time
+• Identified key insights such as dominance of movies (~85%) and significant growth in content after 2000
 
-**Customer Segmentation using Python**
+Credit Risk Analysis using SQL
 
-* Performed data cleaning and EDA using Pandas and NumPy
-* Segmented customers based on purchasing behavior
-* Provided insights for targeted marketing strategies
+• Analyzed customer credit and transaction data using SQL to identify high-risk and low-risk customer segments
+• Performed data analysis using joins, aggregations, and CASE statements across multiple datasets
+• Evaluated spending patterns by city, merchant category, and customer behavior
+• Identified top customers contributing to highest transaction volume using advanced SQL queries
+• Derived insights on risk distribution and average transaction behavior across different customer segments
 
-**Retail Data Analysis using SQL**
+Customer Segmentation using Python
 
-* Wrote complex SQL queries including joins, aggregations, and filtering
-* Analyzed customer purchasing patterns and sales trends
-* Generated actionable insights to support business decisions
+• Performed data cleaning and exploratory data analysis (EDA) using Pandas and NumPy
+• Analyzed customer purchasing behavior to identify patterns and trends
+• Segmented customers into distinct groups for targeted marketing strategies
+• Visualized insights using charts to support data-driven decision making
 
 ---
 
 ### **EDUCATION**
 
-**Master of Science (M.S.) in Data Science**
-(Woolf University, Malta) | Dec 2026
+**M.S. in Computer Science** (Machine Learning & AI Engineering)
+Woolf University (Accredited), in collaboration with Vishlesan I-Hub, IIT Patna (Pursuing)
+Duration: 15 months | Mode: Part-time (Online)
 
 **Bachelor’s Degree**
 (Delhi University) | Aug 2023
