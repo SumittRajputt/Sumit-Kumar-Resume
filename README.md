@@ -62,8 +62,11 @@ Duration: 15 months | Mode: Part-time (Online)
 
 ### **CERTIFICATIONS**
 
-* Data Analytics Certification – (Woolf University)
-* SQL / Excel / Power BI / Python Certification
+• Data Analytics Certification – Woolf University
+• SQL Certification – Data Analysis and Querying
+• Python Certification – Data Analysis using Pandas and NumPy
+• Power BI Certification – Data Visualization and Dashboard Development
+• Excel Certification – Data Analysis (Pivot Tables, VLOOKUP, Data Cleaning)
 
 ---
 
